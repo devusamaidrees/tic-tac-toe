@@ -10,11 +10,13 @@ The program starts with a 3x3 array, arr, which represents the game board. The b
 
 The program then defines several functions:
 
-`display() - displays the current state of the game board `
-```players1() - prompts Player 1 or the computer to enter their choice of move```
+display() - displays the current state of the game board 
+players1() - prompts Player 1 or the computer to enter their choice of move
 players2() - prompts Player 2 or the computer to enter their choice of move
 gameover() - checks if the game is over, either because someone has won or because the board is full and there is a draw.
-The main program then runs a loop where it repeatedly calls display(), players1(), players2(), and gameover(). The loop continues until gameover() returns true, indicating that the game is over.
+
+The main program then runs a loop where it repeatedly calls `display()`, `players1()`, `players2()`, and `gameover()`. The loop continues until `gameover()` returns true, indicating that the game is over.
+
 
 Running the program
 To run the program, simply compile the code and execute it. The program will display the game board and prompt Player 1 (or the computer) to enter their move. Follow the prompts to continue playing until the game is over.
