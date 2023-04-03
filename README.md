@@ -1,5 +1,5 @@
 My first c++ project of tic tac toe game.
-#**Tic Tac Toe**
+##**Tic Tac Toe**
 This program is a simple Tic Tac Toe game created using C++.
 
 How to Play
