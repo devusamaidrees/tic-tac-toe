@@ -2,10 +2,10 @@ My first c++ project of tic tac toe game.
 # **Tic Tac Toe**
 This program is a simple Tic Tac Toe game created using C++.
 
-**How to Play**
+# How to Play
 The game is played on a 3x3 board. Players take turns placing either "X" or "O" in an empty space on the board. The objective is to get three of your symbols in a row (horizontally, vertically, or diagonally). The first player to get three in a row wins the game. If all the spaces on the board are filled and no one has won, then the game is considered a draw.
 
-Code Structure
+# Code Structure
 The program starts with a 3x3 array, arr, which represents the game board. The board is initially filled with numbers 1-9, which represent the spaces where players can place their symbols.
 
 The program then defines several functions:
